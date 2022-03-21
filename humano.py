@@ -1,0 +1,3 @@
+def humano():
+    tipo = humano
+
